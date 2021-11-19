@@ -15,7 +15,6 @@
 | Ticket ID: | |
 | Ændringstype | ⬜ Forbedring |
 |  | ⬜ Fejlretning |
-| Change-ansøger | |
 | Change-godkender | |
 | Status | ⬜ Godkendt |
 |  | ⬜ Afvist |
