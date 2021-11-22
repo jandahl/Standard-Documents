@@ -1,0 +1,113 @@
+<noinclude>
+Brug:
+<pre>
+{{Change Request|
+|Summary=I want to efficiently operationalize our assets
+|PriotityPanic=X
+|PriotityHigh=
+|PriotityMedium=
+|PriotityLow=
+|DateTime=
+|InDepthDescription=
+|ReasonForChange=
+|RelatedTicketID=
+|ChangeTypeImprovement=
+|ChangeTypeErrorCorrection=X
+|NameOfChangeApprover=
+|ChangeStatusApproved=
+|ChangeStatusDenied=
+|RiskOfDoingThisIsPanic=
+|RiskOfDoingThisIsHigh=
+|RiskOfDoingThisIsMedium=
+|RiskOfDoingThisIsLow=X
+|RiskOfDoingNothingIsPanic=
+|RiskOfDoingNothingIsHigh=
+|RiskOfDoingNothingIsMedium=
+|RiskOfDoingNothingIsLow=X
+}}
+</pre>
+</noinclude>
+== Change Request ==
+=== Generelle Oplysninger ===
+{| class="wikitable"
+!style="text-align:left;"| Opsummering
+| colspan="2" | {{{Summary}}}
+|-
+!style="text-align:left;" rowspan=4| Prioritet
+| style="width:10; text-align: right;" | <code>[{{{PriotityPanic| }}}]</code>
+| Panik
+|-
+| style="width:10; text-align: right;" | <code>[{{{PriotityHigh| }}}]</code>
+| Høj
+|-
+| style="width:10; text-align: right;" | <code>[{{{PriotityMedium| }}}]</code>
+| Mellem
+|-
+| style="width:10; text-align: right;" | <code>[{{{PriotityLow| }}}]</code>
+| Lav
+|-
+!style="text-align:left;"| Udførelsestidspunkt
+| colspan="2" | {{{DateTime|{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} kl {{CURRENTTIME}} - 23:59}}}
+|-
+!style="text-align:left;"| Nærmere beskrivelse af Change
+| colspan="2" |{{{InDepthDescription}}}
+|-
+!style="text-align:left;"| Årsag
+| colspan="2" |{{{ReasonForChange}}}
+|-
+!style="text-align:left;"| Ticket ID:
+| colspan="2" |{{{RelatedTicketID}}}
+|-
+!style="text-align:left;" rowspan=2| Ændringstype
+| style="width:10; text-align: right;" | <code>[{{{ChangeTypeImprovement| }}}]</code>
+| Forbedring
+|-
+| style="width:10; text-align: right;" | <code>[{{{ChangeTypeErrorCorrection| }}}]</code>
+| Fejlretning
+|-
+!style="text-align:left;"| Change-godkender
+| colspan="2" |{{{NameOfChangeApprover}}}
+|-
+!style="text-align:left;" rowspan=2| Status
+| style="width:10; text-align: right;" | <code>[{{{ChangeStatusApproved| }}}]</code>
+| Godkendt
+|-
+| style="width:10; text-align: right;" | <code>[{{{ChangeStatusDenied| }}}]</code>
+| Afvist
+|}
+
+=== Risikoanalyse ===
+
+{| class="wikitable"
+!style="text-align:left;"| Risiko/risici ved udførelse
+| colspan="2" | 
+|-
+!style="text-align:left;" rowspan=4| Risikovurdering
+| style="width:10; text-align: right;" | <code>[{{{RiskOfDoingThisIsPanic| }}}]</code>
+| Panik
+|-
+| style="width:10; text-align: right;" | <code>[{{{RiskOfDoingThisIsHigh| }}}]</code>
+| Høj
+|-
+| style="width:10; text-align: right;" | <code>[{{{RiskOfDoingThisIsMedium| }}}]</code>
+| Mellem
+|-
+| style="width:10; text-align: right;" | <code>[{{{RiskOfDoingThisIsLow| }}}]</code>
+| Lav
+|-
+!style="text-align:left;"| Risiko/risici ved IKKE at udføre change
+| colspan="2" | 
+|-
+!style="text-align:left;" rowspan=4| Risikovurdering
+| style="width:10; text-align: right;" | <code>[{{{RiskOfDoingNothingIsPanic| }}}]</code>
+| Panik
+|-
+| style="width:10; text-align: right;" | <code>[{{{RiskOfDoingNothingIsHigh| }}}]</code>
+| Høj
+|-
+| style="width:10; text-align: right;" | <code>[{{{RiskOfDoingNothingIsMedium| }}}]</code>
+| Mellem
+|-
+| style="width:10; text-align: right;" | <code>[{{{RiskOfDoingNothingIsLow| }}}]</code>
+| Lav
+|}
