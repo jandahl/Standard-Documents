@@ -1,7 +1,7 @@
 <noinclude>
 Brug:
 <pre>
-{{Change Request|
+{{Change Request
 |Summary=I want to efficiently operationalize our assets
 |PriotityPanic=X
 |PriotityHigh=
